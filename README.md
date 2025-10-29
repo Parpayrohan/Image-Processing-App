@@ -34,7 +34,10 @@ This is a **Streamlit-based AI Image Processing app**. It allows users to upload
 
 ## Screenshots
 
-![App Interface](MyappScreenshot.png)  
+![App Interface](MyappScreenshot.png)
+![App Interface](screenshot2.png)
+![Segmented Image](screenshot3.png)
+![Cartoonize Image](screenshot4.png)
 
 
 ## Notes
