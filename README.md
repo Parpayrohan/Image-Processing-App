@@ -40,10 +40,10 @@ streamlit run app.py
 
 ## Screenshots
 
-![App Screenshot](MyappScreenshot.png)
-![App Screenshot](screenshot2.png)
-![App Screenshot](screenshot3.png)
-![App Screenshot](screenshot4.png)
+![App Interface](MyappScreenshot.png)
+![App Operations](screenshot2.png)
+![Segmented Image](screenshot3.png)
+![Cartoonize Image](screenshot4.png)
 
 ## Notes
 
