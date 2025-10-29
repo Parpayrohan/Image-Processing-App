@@ -40,7 +40,7 @@ streamlit run app.py
 
 ## Screenshots
 
-_Add screenshots here if you want to showcase the app interface._
+![App Screenshot](MyappScreenshot.png.png)
 
 ## Notes
 
