@@ -41,6 +41,9 @@ streamlit run app.py
 ## Screenshots
 
 ![App Screenshot](MyappScreenshot.png)
+![App Screenshot](screenshot2.png)
+![App Screenshot](screenshot3.png)
+![App Screenshot](screenshot4.png)
 
 ## Notes
 
